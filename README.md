@@ -44,3 +44,19 @@ As part of the OS Ticket lifecycle, step 1 involves Intake. During this phase, I
 In step 2 of the OS Ticket lifecycle, Assignment and Communication, I set up workflows to ensure tickets are promptly assigned to the appropriate support agents based on predefined criteria such as issue type, priority, and agent expertise. Additionally, I configured automated notifications to keep both customers and support staff informed about ticket status changes and updates. Effective assignment and clear communication are critical for maintaining transparency, managing workload efficiently, and ensuring that issues are addressed in a timely manner. This step is essential for fostering a responsive and organized support environment, ultimately enhancing customer satisfaction.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In step 3 of the OS Ticket lifecycle, Working the Issue, I oversaw the process where support agents actively engage with and resolve customer issues. This involves troubleshooting, researching solutions, and collaborating with other team members if necessary. I ensured that agents had access to a comprehensive knowledge base and the necessary tools to efficiently address problems. Regular updates were communicated to the customer to keep them informed about the progress. This step is crucial for effectively resolving support tickets, minimizing downtime for the customer, and maintaining a high standard of service.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In step 4 of the OS Ticket lifecycle, Resolution, I ensured that once an issue was resolved, the solution was thoroughly documented and communicated to the customer. This involved verifying that the problem was completely addressed and that the customer was satisfied with the outcome. I also made sure that any relevant knowledge gained from resolving the issue was added to the knowledge base for future reference. This step is crucial for closing the loop on support tickets, preventing recurrence of similar issues, and maintaining a high level of customer satisfaction. Proper resolution and documentation help build a robust support system and enhance overall service quality.
+</p>
+<br />
